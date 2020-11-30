@@ -8,7 +8,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        var euler = new Euler_20();
+        var euler = new Euler_112();
         euler.Run();
 
     }
